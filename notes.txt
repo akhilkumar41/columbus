@@ -1,0 +1,31 @@
+planned strategies.
+
+
+key points to keep in mind:
+a)we have to trade momentum
+b)always apply stoploss and target , i.e RR ratio.
+c)wait for setup.
+d)never do option buying ==> avoid this 
+e)never place order in FOMO.
+f)understand what is pattern and what is trend.
+g)always trade in the direction of trend ==> so we use supertrend
+
+
+
+
+setup:
+a)RSI crossover with its own MA
+b)supertrend support at base and pick only those stocks which have momentum (RSI > 60 )
+c)TTM squeeze - above and below histogram .
+d)Renko chart breakouts 
+e)range breaker - supply ranges for all stocks and keep persistently checking if range has been broken 
+f)gfs strategy -> 1M (>60) , 1W (>60) , 1D(near 40)
+g)Rsi breakouts
+h)Rsi corssing its 14 candles average .
+i)stocks breaking ATH.
+J)EMA for double confirmation on strength.
+
+
+
+
+
